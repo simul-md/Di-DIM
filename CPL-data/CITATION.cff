@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite as below."
+authors:
+  - family-names: Dhiman
+    given-names: Mukul
+    affiliation: "MSME, Université Gustave Eiffel"
+  - family-names: Gervais
+    given-names: Benoit
+    affiliation: "Normandie Univ, ENSICAEN, CIMAP"
+title: "Excited Argon Cluster Data: Di-DIM Geometries, Energies and PECs"
+version: 1.0.0
+date-released: 2026-03-24
+license: CC-BY-4.0
+repository-code: "https://github.com/simul-md/Di-DIM/CPL-data"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Dhiman
+      given-names: Mukul
+    - family-names: Gervais
+      given-names: Benoit
+  title: "Correcting Rydberg Excitations in Argon Clusters: From Trimer to Excimer Localization"
+  journal: "Chemical Physics Letters"
+  year: 2026
+  doi: "[DOI]"
