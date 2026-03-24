@@ -11,7 +11,7 @@ title: "Excited Argon Cluster Data: Di-DIM Geometries, Energies and PECs"
 version: 1.0.0
 date-released: 2026-03-24
 license: CC-BY-4.0
-repository-code: "https://github.com/simul-md/Di-DIM/CPL-data"
+repository-code: "https://github.com/simul-md/Di-DIM/tree/main/CPL-data"
 preferred-citation:
   type: article
   authors:
