@@ -37,3 +37,13 @@ Geometries can be visualized with any standard molecular viewer
 
 If you use this data, please cite:
 
+## License
+
+This dataset is licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You are free to share and adapt the data, provided appropriate credit is given.
+
+## Contact
+
+Mukul Dhiman 
+Benoit Gervais
