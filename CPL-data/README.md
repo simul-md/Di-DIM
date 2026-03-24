@@ -22,7 +22,7 @@ Ar₂* dimer potential energy curves used to parametrize the Di-DIM Hamiltonian:
 - Ad hoc 3p4p state used for avoided crossing correction
 
 ## Units
-- Geometries: Angstroms (xyz format) or atomic units (au) as specified
+- Geometries: xyz format and in atomic units (au)
 - Energies: atomic units (au) and cm⁻¹ as indicated in each file header
 - PEC radius: atomic units (au)
 
